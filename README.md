@@ -1,5 +1,5 @@
 # kfs-fci-csharp
-Solving programming problems using C-Sharp for the first level of faculty of Computers and Information Systems, KSU University.
+Solving programming problems using C-Sharp for the first level of faculty of Computers and Information Systems, KFS University.
 
 صلي علي محمد
 
