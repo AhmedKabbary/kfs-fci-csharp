@@ -33,7 +33,7 @@ while (true)
             Console.WriteLine($"Result: {firstNum} * {secondNum} = {firstNum * secondNum}");
             break;
         case "/":
-            if (secondNum > 0)
+            if (secondNum != 0)
             {
                 Console.WriteLine($"Result: {firstNum} / {secondNum} = {firstNum / secondNum}");
             }
