@@ -24,6 +24,6 @@ int product = 1;
 for (int i = 0; i < n; i++)
 {
     Console.WriteLine("Enter a number");
-    product *= int.Parse(Console.ReadLine());
+    product *= Convert.ToInt32(Console.ReadLine());
 }
 Console.WriteLine("The product is " + product);
