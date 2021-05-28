@@ -3,7 +3,7 @@ Solving programming problems using C-Sharp for the first level of faculty of Com
 
 صلي علي محمد
 
-Mady by [@ahmed_kabbary](https://t.me/ahmed_kabbary) (telegram)
+Made by [@ahmed_kabbary](https://t.me/ahmed_kabbary) (telegram)
 
 ## C# sheet problems
 
