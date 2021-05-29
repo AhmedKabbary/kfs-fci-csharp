@@ -1,6 +1,6 @@
 ﻿using System;
 
-// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED ANSWER
+// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED SOLUTION
 
 // logic: return the string in reverse order
 // input: my name is ahmed

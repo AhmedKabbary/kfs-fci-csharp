@@ -1,5 +1,7 @@
 ﻿using System;
 
+// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED SOLUTION
+
 // logic: return the product of four integers
 
 //------ Solution #1 ------
@@ -20,7 +22,7 @@ Console.WriteLine("The product is " + product);
 
 byte n = 4; // four inputs
 int product = 1;
-for (int i = 0; i < n; i++)
+for (byte i = 0; i < n; i++)
 {
     Console.WriteLine("Enter a number");
     product *= Convert.ToInt32(Console.ReadLine());

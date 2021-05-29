@@ -1,6 +1,6 @@
 ﻿using System;
 
-// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED ANSWER
+// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED SOLUTION
 
 // logic: place double qoutes around each word in a string
 // input: my name is ahmed

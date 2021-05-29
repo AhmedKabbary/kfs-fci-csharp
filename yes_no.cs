@@ -1,6 +1,6 @@
 ﻿using System;
 
-// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED ANSWER
+// NOTE: DON'T RUN THE WHOLE FILE, JUST COPY THE PREFERRED SOLUTION
 
 // logic: replace every "no" with "yes" in a string
 // input: i said yes or no
