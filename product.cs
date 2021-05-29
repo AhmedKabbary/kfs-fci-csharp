@@ -19,7 +19,6 @@ Console.WriteLine("The product is " + product);
 //------ Solution #2 (with n inputs) ------
 
 byte n = 4; // four inputs
-int[] array = new int[n];
 int product = 1;
 for (int i = 0; i < n; i++)
 {
